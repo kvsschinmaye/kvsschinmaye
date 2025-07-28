@@ -3,9 +3,8 @@
 # 💫 About Me:
 I'm a 3rd-year Computer Science student passionate about building real-world software solutions and exploring the power of AI.  
 - Pronouns: She/Her  
-🌟 “Learning never exhausts the mind – it only fuels curiosity.”  
 
-Thanks for stopping by! Let's connect, collaborate, and code together. 💻✨
+Let's connect, collaborate, and code together. 💻✨
 
 ---
 
@@ -41,6 +40,9 @@ Thanks for stopping by! Let's connect, collaborate, and code together. 💻✨
 </p>
 
 [![](https://visitcountpro.netlify.app/api?id=kvsschinmaye&pretty=true)](https://visitcount.itsvg.in)
+
+
+🌟 “Learning never exhausts the mind – it only fuels curiosity.”  
 
 
 
