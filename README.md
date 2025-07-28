@@ -40,6 +40,8 @@ Thanks for stopping by! Let's connect, collaborate, and code together. 💻✨
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kvsschinmaye&theme=tokyonight&hide_border=true" width="96%"/>
 </p>
 
+[![](https://visitcountpro.netlify.app/api?id=kvsschinmaye&pretty=true)](https://visitcount.itsvg.in)
 
-[![](https://visitcount.itsvg.in/api?id=kvsschinmaye&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
