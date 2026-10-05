@@ -1,7 +1,7 @@
 ## 👋 Hi there, I am K V Sai Sri Chinmaye
 
 # 💫 About Me:
-I'm a 3rd-year Computer Science student passionate about building real-world software solutions and exploring the power of AI.  
+I'm a 4th-year Computer Science student passionate about building real-world software solutions and exploring the power of AI.  
 - Pronouns: She/Her  
 
 Let's connect, collaborate, and code together. 💻✨
